@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PurushothamKilari
 - 👀 I’m interested in ... security
 - 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ...jspiders
-- 📫 How to reach me ...insta
+- 💞️ I’m looking to collaborate with Facinating team
+- 📫 How to reach me on ...insta
 
 <!---
 PurushothamKilari/PurushothamKilari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
